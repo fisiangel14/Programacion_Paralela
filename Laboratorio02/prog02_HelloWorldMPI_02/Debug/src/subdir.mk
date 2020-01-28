@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../src/SlowApplication.cpp 
+../src/HelloWorldMPI_02.cpp 
 
 OBJS += \
-./src/SlowApplication.o 
+./src/HelloWorldMPI_02.o 
 
 CPP_DEPS += \
-./src/SlowApplication.d 
+./src/HelloWorldMPI_02.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
